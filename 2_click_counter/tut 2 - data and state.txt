@@ -1,0 +1,73 @@
+Question 1
+In React, data flows in one way: from a parent component to a child component.
+Ans: True
+
+
+Question 2
+Why is one-way data flow important in React?
+Ans: It ensures that the data is flowing from top to bottom in the component hierarchy.
+
+
+Question 3
+True or false? State data is the data inside a component that a component can mutate.
+Ans: True
+
+
+Question 4
+What is prop drilling?
+Ans : Prop drilling is a situation where you are passing data from a parent to a child component, then to a grandchild component, and so on, until it reaches a more distant component further down the component tree, where this data is required
+
+
+Question 5
+The distinction between stateful and stateless components is that the latter doesn't have its own state. 
+Ans : True
+
+
+Question 6
+Choose the correct statement.
+Ans : Remember that you should never change the values of props in children components; you should only work with them as they are. In other words, props are immutable.
+
+
+Question 7
+Is this code valid?
+
+function App() {
+   const handler = () => console.log('fourth example')
+   return ( 
+      <div> 
+        <button onClick = {handler} >
+          Click Me!
+        </button>
+      </div>
+   )
+}
+export default App
+
+Ans : Yes
+
+
+Question 8
+Is this code valid?
+
+<button onClick={ () => console.log('clicked') }> 
+  Click me
+</button>
+
+Ans : Yes
+
+
+Question 9
+Select the correct statement: The useState hook...
+Ans : ...lets you hook into React state and lifecycle features from a component
+
+Question 10
+The context API allows you to:
+Ans : Avoid having to pass state down through multiple levels of components.
+
+
+
+
+
+
+
+
