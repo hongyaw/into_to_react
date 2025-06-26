@@ -28,6 +28,8 @@ An interactive click counter that teaches:
 - `App.js`, `App.css`  
 - `tut 2 - data and state.txt` for learning notes
 
+🔗▶️ [Watch the click-counter demo video](https://raw.githubusercontent.com/hongyaw/react-learning-labs/main/2_click_counter/click_counter_demo.mp4)
+
 ---
 
 ### `3_calculator`
