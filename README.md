@@ -41,7 +41,8 @@ A minimalist calculator built using:
 - `calculator_demo.mp4` for demonstration  
 - `README.md` with detailed explanation
 
-🔗 [▶️ Watch the calculator demo video](3_calculator/calculator_demo.mp4)
+🔗▶️ [Watch the calculator demo video](https://raw.githubusercontent.com/hongyaw/into_to_react/main/3_calculator/calculator_demo.mp4)
+
 
 ---
 
